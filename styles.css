@@ -1,0 +1,31 @@
+#titre{
+    padding-left: 75vh;
+}
+
+#medecin{
+    padding-top: 10vh;
+    padding-left: 75vh;
+}
+
+#patient{
+    padding-top: 10vh;
+    padding-left: 75vh;
+
+}
+#prescription{
+    padding-top: 10vh;
+    padding-left: 75vh;
+}
+
+#boutton{
+    padding-top: 10vh;
+    padding-left: 75vh;
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
